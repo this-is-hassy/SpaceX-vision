@@ -3,12 +3,13 @@ SpaceX Exploration Website
 Welcome to our space-themed website, a digital journey through the wonders of the cosmos! 🚀
 Overview
 
-Getting Started
+## Technologies Used
 
-    Clone the repository: git clone https://github.com/your-username/space-website.git
-    Open index.html in your preferred web browser.
-    
+- **React.js:**
+  - Utilized for building interactive user interfaces and delivering a smooth, single-page application experience.
 
+- **Tailwind CSS:**
+  - Employed for styling the website with a mobile-first approach, ensuring responsiveness and modern aesthetics.
 Contributions
 
 We welcome contributions! If you'd like to enhance our space website, feel free to fork the repository and submit a pull request.
